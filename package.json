@@ -1,0 +1,25 @@
+{
+  "name": "treestudios-website",
+  "version": "1.0.0",
+  "description": "Simple Website For TreeStudios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rxfe-a/treestudios-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rxfe-a/treestudios-website/issues"
+  },
+  "homepage": "https://github.com/rxfe-a/treestudios-website#readme",
+  "dependencies": {
+    "@fastify/static": "^10.1.8",
+    "fastify": "^5.12.7"
+  }
+}
